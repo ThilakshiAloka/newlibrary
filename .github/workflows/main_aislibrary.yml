@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'aislibrary'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BDBB1764FE4649B69FF2D0FBB2D1116A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5C076C9407B5415B8A8A1628E5EC664A }}
           package: .
